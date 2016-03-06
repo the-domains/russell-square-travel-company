@@ -1,3 +1,7 @@
+name: Russell Square Travel Company
+favicon: null
+layout_spectrum: 0.2130326
+typography_spectrum: 0.2411898
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2411898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1327932
-  brandStrength: 0.7257825
-  rhythmicContrast: 0.8149141
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#8a2020'
+    - '#ac9a8e'
+    - '#ffcaac'
+    - '#3e8ee3'
+    - '#073c7e'
+  brandStrength: 0.7257825
   lightness: 0.2923505
-layout_spectrum: 0.2130326
-name: Russell Square Travel Company
+  saturation: 0.1327932
+  rhythmicContrast: 1
+purpose: []
