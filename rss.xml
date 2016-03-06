@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Russell Square Travel Company]]></title>
         <description><![CDATA[Russell Square Travel Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/russell-square-travel-company/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 06:37:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 06:47:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/russell-square-travel-company/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/russell-square-travel-company/4ccd0d7c-2c2b-4ae9-8900-1a6f95c7b7e3/index.html</link>
+            <guid isPermaLink="false">4ccd0d7c-2c2b-4ae9-8900-1a6f95c7b7e3</guid>
+            <pubDate>Sun, 06 Mar 2016 06:46:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello!</p>]]></description>
-            <link>undefined65b3ad9a-42e5-49bc-86cf-bba624cedef1/index.html</link>
+            <link>https://thegrid.ai/russell-square-travel-company/65b3ad9a-42e5-49bc-86cf-bba624cedef1/index.html</link>
             <guid isPermaLink="false">65b3ad9a-42e5-49bc-86cf-bba624cedef1</guid>
             <pubDate>Sun, 06 Mar 2016 06:36:59 GMT</pubDate>
         </item>
