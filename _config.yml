@@ -1,8 +1,18 @@
-layout_spectrum: 0.5735651
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.2411898
 color:
   saturation: 0.1327932
-  lightness: 0.2923505
   brandStrength: 0.7257825
   rhythmicContrast: 0.8149141
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  lightness: 0.2923505
+layout_spectrum: 0.2130326
 name: Russell Square Travel Company
