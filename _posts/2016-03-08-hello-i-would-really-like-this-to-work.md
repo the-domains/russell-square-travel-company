@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Hello, I would really like this to work.'
-datePublished: '2016-03-08T14:52:59.172Z'
-dateModified: '2016-03-08T14:52:53.953Z'
-title: ''
+datePublished: '2016-03-08T14:54:35.839Z'
+dateModified: '2016-03-08T14:54:14.914Z'
+title: Ireland
 author: []
 sourcePath: _posts/2016-03-08-hello-i-would-really-like-this-to-work.md
 published: true
