@@ -1,6 +1,6 @@
 name: Russell Square Travel Company
 favicon: null
-layout_spectrum: 0.24622
+layout_spectrum: 0.99748
 typography_spectrum: 0.2411898
 collections:
   - index:
@@ -14,7 +14,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Russell Square Travel Company
 cta:
   domain: null
   bucket: null
@@ -35,7 +34,7 @@ color:
     - '#3e8ee3'
     - '#073c7e'
   brandStrength: 0.7257825
-  lightness: 1
-  saturation: 0.5
+  lightness: 0.2923505
+  saturation: 0.1327932
   rhythmicContrast: 1
 purpose: []
